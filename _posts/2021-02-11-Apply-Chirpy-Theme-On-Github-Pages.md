@@ -1,4 +1,5 @@
 ---
+comments: true
 title: 깃헙 페이지에 Chirpy 테마 적용하기
 date: 2021-02-11 23:50:30 +0900
 categories: [ETC, Github Pages]
