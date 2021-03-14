@@ -15,9 +15,9 @@ timezone: Asia/Seoul
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # --------------------------
-title: Chirpy # the main title
+title: Angelo's blog # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: Angelo의 개발/게임 이야기 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,
@@ -27,38 +27,38 @@ description: >- # used by seo meta and the atom feed
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://dev-angelo.github.io"
 
-author: your_full_name # change to your full name
+author: Angelo # change to your full name
 
 github:
-  username: github_username # change to your github username
+  username: dev-angelo # change to your github username
 
-twitter:
-  username: twitter_username # change to your twitter username
+# twitter:
+#   username: twitter_username # change to your twitter username
 
-social:
-  name: your_full_name # it will shows as the copyright owner in Footer
-  email: example@doamin.com # change to your email address
-  links:
-    # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/username # change to your github homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+# social:
+#   name: your_full_name # it will shows as the copyright owner in Footer
+#   email: example@doamin.com # change to your email address
+#   links:
+#     # The first element serves as the copyright owner's link
+#     - https://twitter.com/username # change to your twitter homepage
+#     - https://github.com/username # change to your github homepage
+#     # Uncomment below to add more social links
+#     # - https://www.facebook.com/username
+#     # - https://www.linkedin.com/in/username
 
-google_site_verification: google_meta_tag_verification # change to your verification string
+# google_site_verification: google_meta_tag_verification # change to your verification string
 # --------------------------
 
-google_analytics:
-  id: "" # Fill with your Google Analytics ID
-  pv:
-    # The Google Analytics pageviews switch.
-    # DO NOT enable it unless you know how to deploy the Google Analytics superProxy.
-    enabled: false
-    # the next options only valid when `google_analytics.pv` is enabled.
-    proxy_url: ""
-    proxy_endpoint: ""
-    cache: false # pv data local cache, good for the users from GFW area.
+# google_analytics:
+#   id: "" # Fill with your Google Analytics ID
+#   pv:
+#     # The Google Analytics pageviews switch.
+#     # DO NOT enable it unless you know how to deploy the Google Analytics superProxy.
+#     enabled: false
+#     # the next options only valid when `google_analytics.pv` is enabled.
+#     proxy_url: ""
+#     proxy_endpoint: ""
+#     cache: false # pv data local cache, good for the users from GFW area.
 
 # Prefer color scheme setting.
 #
